@@ -1,13 +1,15 @@
 # deep_learning
 
-## Objetivo General
+This repository has the materials and scripts to support the course of introduction to Deep Learning at Universidad Nacional de Colombia
 
-Introducir al participante en el conocimiento de las redes neuronales, brindando un conocimiento de las herramientas de última generación para la clasificacion, la detección, la segmentacion y la generación sintética de imágenes.
+## General Objective 
 
-### Objetivos específicos
+To give the participant knowledge about deep neural networks and their architecture to solve multidimensional problems related to tabular data, text, and imagery. This gives the basis about Keras, Tensorflow and FastAI deep learning frameworks, and presents relevant papers related to problems like image classification, image detection, semantic segmentation, generative models and sequence to sequence neural machine translation.
 
-Conocer las generalidades, tipos de redes neuronales y sus aplicaciones.
-Utilizar transfer learning y aprender las bases de la anotacion de imagenes como base para el entrenamiento de DNN.
-Desarrollar algoritmos usando redes neuronales para llevar a cabo clasificacion, deteccion y segmentacion de imagenes.
-Manejar algunas librerias para imagenes, procesamiento y visualizacion de datos.
-Aprender el manejo básico de frameworks de ai en PHYTON.
+### Specific Objetives
+
+To present the Background, types of DNN and their applications.
+To use transfer learning and data labeling.
+To develop DNN algorithms to solve classification, detection and image segmentation problems.
+To introduce a couple of libraries and frameworks to work with DNNs.
+To learn how to train and evaluate model performance, metrics and overfitting.
